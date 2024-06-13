@@ -7,6 +7,7 @@
 ## Вот так оно выглядит
 ![image](https://github.com/stalkeronag/testtaskcpp/assets/86604604/fe1225c5-894c-4024-81e8-51e032df3d55)
 ## Запись в регистр по номеру
+# байты вводятся тут через запятую в десятичном формате
 ![image](https://github.com/stalkeronag/testtaskcpp/assets/86604604/8d42b624-1db4-4bdd-818d-85176d0678c0)
 ## В приложении устройства в консоли выведутся запрос и ответ
 ![image](https://github.com/stalkeronag/testtaskcpp/assets/86604604/8ebb54ae-e258-4b79-af61-b7ba858259ad)
